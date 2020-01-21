@@ -1,0 +1,115 @@
+<style type="text/css">
+
+  @import url('https://fonts.googleapis.com/css?family=Barlow|Lato|Montserrat|Muli|Noto+Sans+KR|Nunito+Sans|Open+Sans|Poppins|Quicksand|Raleway|Roboto|Source+Sans+Pro|Sulphur+Point|Work+Sans&display=swap');
+  
+  body {
+    background: #d8e6e9;
+
+  }
+
+  .card-panel {
+    background: #4a8ba1;
+  }
+  nav {
+    background: #e77560;
+  }
+
+  .brand-logo {
+    margin-left: 3%;
+  }
+
+  #nav-mobile {
+    margin-right: 3%;
+  }
+
+  .heading-frontend {
+    margin-top: 8%;
+    font-family: 'Raleway', sans-serif;
+    color: #dc5b71;
+    font-size: 2.8em;
+    letter-spacing: 0.01em;
+  }
+
+  .materialize-logo {
+    width:9%;
+    display: inline;
+  }
+
+  .info-frontend {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.4em;
+    text-align: left;
+    color: #3B5258;
+  }
+
+  .popularity-frontend {
+    font-family: 'Raleway', sans-serif;
+    color: #4a8ba1;
+    font-size: 1.9em;
+    
+  }
+
+  .checked {
+    font-size: 1.2em;
+    color: orange;
+  }
+
+   .checked2 {
+    font-size: 1.2em;
+    color: orange;
+    
+  }
+
+  .unchecked {
+    font-size: 1.2em;
+    color: rgba(255,255,255,0.4);
+  }
+
+  .strengths-and-weaknesses-frontend {
+    font-family: 'Raleway', sans-serif;
+    color: #4a8ba1;
+    font-size: 1.9em;
+
+  }
+
+  .heading-backend {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    color: #dc5b71;
+    font-size: 2.8em;
+    letter-spacing: 0.01em;
+  }
+
+  .asp-logo {
+    width:10%;
+    display: inline;
+
+  }
+
+  .info-backend {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.4em;
+    text-align: left;
+    color: #3B5258;
+
+  }
+
+    .popularity-backend {
+    font-family: 'Raleway', sans-serif;
+    color: #4a8ba1;
+    font-size: 1.9em;
+    text-align: left;
+    
+  }
+
+    .strengths-and-weaknesses-backend {
+    font-family: 'Raleway', sans-serif;
+    color: #4a8ba1;
+    font-size: 1.9em;
+    text-align: left;
+
+  }
+
+
+
+</style>
